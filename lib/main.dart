@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const Padding(
               padding: EdgeInsets.all(30),
               child: Text(
-                'Failure Pages',
+                'Success Pages !!!',
                 style: TextStyle(
                   fontSize: 20.0,
                   fontWeight: FontWeight.bold,
