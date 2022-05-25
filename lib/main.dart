@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const Padding(
               padding: EdgeInsets.all(30),
               child: Text(
-                'Hello, Flutter for Web & Github Actions & Github Pages !!!',
+                'Failure Pages',
                 style: TextStyle(
                   fontSize: 20.0,
                   fontWeight: FontWeight.bold,
