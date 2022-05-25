@@ -95,6 +95,16 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
+            const Padding(
+              padding: EdgeInsets.all(30),
+              child: Text(
+                'Hello, Flutter for Web & Github Actions & Github Pages !!!',
+                style: TextStyle(
+                  fontSize: 20.0,
+                  fontWeight: FontWeight.bold,
+                )
+              ),
+            ),
             const Text(
               'You have pushed the button this many times:',
             ),
